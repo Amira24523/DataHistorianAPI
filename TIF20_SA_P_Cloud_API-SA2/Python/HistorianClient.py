@@ -1,8 +1,8 @@
 import datetime
 import requests
 
-api_base_url = 'https://cloudapip.azurewebsites.net'
-auth_string_default = "basic Y2xvdWRhcGlwYXNz"
+api_base_url = 'cloudapi-p-apf6a5abfdcpe2hd.germanywestcentral-01.azurewebsites.net'
+
 
 class HistorianClient():
     def __init__(self, base_url, username, auth_string):
