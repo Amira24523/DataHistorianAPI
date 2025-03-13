@@ -1,6 +1,6 @@
 from HistorianClient import HistorianClient
 
-api_base_url = 'cloudapi-p-apf6a5abfdcpe2hd.germanywestcentral-01.azurewebsites.net'
+api_base_url = 'https://cloudapi-p.azurewebsites.net'
 
 #Initialize a HistorianClient
 hc = HistorianClient(api_base_url, "testusername")

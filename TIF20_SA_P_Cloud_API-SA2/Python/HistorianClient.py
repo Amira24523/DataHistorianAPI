@@ -1,7 +1,7 @@
 import datetime
 import requests
 
-api_base_url = 'cloudapi-p-apf6a5abfdcpe2hd.germanywestcentral-01.azurewebsites.net'
+api_base_url = 'https://cloudapi-p.azurewebsites.net'
 
 
 class HistorianClient():
